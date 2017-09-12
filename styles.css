@@ -1,0 +1,24 @@
+body{
+  background-image: url('sneiblad.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+* {
+  text-align: center;
+  color: black;
+}
+h2{
+FONT-size: 20px;
+}
+* {
+  text-align: center;
+  color: black;
+}
+h2{
+  font-size: 20px;
+}
+p{
+  font-size:  20px;
+}
